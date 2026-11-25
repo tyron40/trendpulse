@@ -60,7 +60,7 @@ function requireEditor(req, res, next) {
 }
 
 function publicPage(req, res, content, options, editorial) {
-  const ads = Object.entries(tags).filter(([key, tag]) => tag && editorial?.ads?.[key]).map(([, tag]) => tag).join('\n');
+  const ads = Object.entries(tags).filter(([key, tag]) => tag && editorial && (!configured || editorial.ads?.[key])).map(([, tag]) => tag).join('\n');
   if (ads) return page(res, content, { ...options, ads });
   return restrict(req, res, () => page(res, content, options));
 }
@@ -87,6 +87,7 @@ app.use(express.static(fileURLToPath(new URL('./public', import.meta.url))));
 app.get('/health', (req, res) => res.json({ status: 'ok' }));
 app.use('/admin', restrict, (req, res, next) => {
   res.set('Cache-Control', 'no-store');
+  if (!configured) return page(res, 'Page not found.', { title: 'Page not found', status: 404 });
   if (req.method === 'POST' && req.get('origin') !== origin) return res.sendStatus(403);
   next();
 }, express.urlencoded({ extended: false, limit: '64kb', parameterLimit: 10 }));
