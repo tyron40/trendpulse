@@ -30,7 +30,7 @@ export function page(res, content, { title, description, url, ads = '', status =
         h('nav', { 'aria-label': 'Topics' }, categories.map(category =>
           link('/?topic=' + category, category, { key: category })))),
       h('main', { id: 'content' }, content),
-      h('footer', null, link('/', 'TrendPulse'), link('/admin', 'Editor sign-in'))));
+      h('footer', null, link('/', 'TrendPulse'))));
   const markup = renderToStaticMarkup(document);
   const headEnd = markup.indexOf('</head>');
   res.status(status).type('html').send('<!doctype html>' + markup.slice(0, headEnd) + ads + markup.slice(headEnd));
