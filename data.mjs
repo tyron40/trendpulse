@@ -26,9 +26,13 @@ export async function read(key) {
     return JSON.parse(await readFile(new URL(files[key], import.meta.url), 'utf8'));
   }
   try {
-    const response = await github(key);
+    const rawUrl = 'https://raw.githubusercontent.com/' + repository + '/refs/heads/' + branch + '/' + files[key];
+    const response = writable
+      ? await github(key)
+      : await fetch(rawUrl, { signal: AbortSignal.timeout(8000) });
     if (!response.ok) throw new Error('GitHub content read HTTP ' + response.status);
-    const value = decode(await response.json());
+    const document = await response.json();
+    const value = writable ? decode(document) : document;
     cache.set(key, { value, expires: Date.now() + 120000 });
     return value;
   } catch (error) {
