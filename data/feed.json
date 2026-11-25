@@ -1,12 +1,435 @@
 [
   {
+    "slug": "news-be54e905a796b4cee0cd",
+    "title": "US announces new tariffs on host of countries including China",
+    "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+    "category": "Business",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T13:49:47.000Z"
+  },
+  {
     "slug": "news-42887a31417738a7d599",
-    "title": "Households braced for soaring energy bills with new price cap to be announced",
-    "summary": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
+    "title": "Energy bills to rise by 26% from January after gas prices surge",
+    "summary": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
     "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
     "category": "Business",
     "source": "BBC News",
-    "publishedAt": "2026-11-25T00:29:58.000Z"
+    "publishedAt": "2026-11-25T13:42:08.000Z"
+  },
+  {
+    "slug": "news-6228eb8f1da85fe5c369",
+    "title": "All Blacks great Beauden Barrett close to Bristol move",
+    "summary": "New Zealand great Beauden Barrett is close to agreeing a deal to join Bristol Bears in what would be one of the highest-profile signings in Prem history.",
+    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmvg2ex1v0vzo?at_medium=RSS&at_campaign=rss",
+    "category": "Sports",
+    "source": "BBC Sport",
+    "publishedAt": "2026-11-25T13:29:10.000Z"
+  },
+  {
+    "slug": "news-5eafb42251361c118cfc",
+    "title": "The England opening batting pair made in Wales",
+    "summary": "Aneurin Donald and Phil Salt were made in Wales but have made headlines around the cricket world as England's explosive openers.",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/cw1mdzn9dzpzo?at_medium=RSS&at_campaign=rss",
+    "category": "Sports",
+    "source": "BBC Sport",
+    "publishedAt": "2026-11-25T13:21:21.000Z"
+  },
+  {
+    "slug": "news-1498e9af751a3b5c048e",
+    "title": "Fury v Joshua fight to go ahead despite objections over 3am finish",
+    "summary": "Cardiff council said the fight would be a \"big deal\" for the city, boosting its revenue and profile.",
+    "link": "https://www.bbc.co.uk/news/articles/c5kg73d2px7mo?at_medium=RSS&at_campaign=rss",
+    "category": "Sports",
+    "source": "BBC Sport",
+    "publishedAt": "2026-11-25T13:09:06.000Z"
+  },
+  {
+    "slug": "news-ea0eb964f0701b4bc50f",
+    "title": "Sterling - from England icon to suspended jail sentence",
+    "summary": "Fourteen years after making his Premier League debut at 17, Raheem Sterling has been given a suspended prison sentence.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cxzd9ydqzylno?at_medium=RSS&at_campaign=rss",
+    "category": "Sports",
+    "source": "BBC Sport",
+    "publishedAt": "2026-11-25T12:42:57.000Z"
+  },
+  {
+    "slug": "news-d28edd583d67403a26f2",
+    "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
+    "summary": "His deportation to and return from El Salvador became a flashpoint in the debate the US president's immigration agenda.",
+    "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
+    "category": "World",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T12:42:11.000Z"
+  },
+  {
+    "slug": "news-f6e1f4ae41754fb21c97",
+    "title": "Dottin out to 'free ball' after historic WBBL decision",
+    "summary": "Brisbane's Sarah Glenn bowls to an empty set of stumps to dismiss Melbourne Renegade's Deandra Dottin after she is deemed too slow to reach the crease and face her first delivery.",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/cx7v2rm8477ro?at_medium=RSS&at_campaign=rss",
+    "category": "Sports",
+    "source": "BBC Sport",
+    "publishedAt": "2026-11-25T12:34:42.000Z"
+  },
+  {
+    "slug": "news-8338ba89e76768bf7f00",
+    "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
+    "summary": "Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart.",
+    "link": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo?at_medium=RSS&at_campaign=rss",
+    "category": "Culture",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T12:24:12.000Z"
+  },
+  {
+    "slug": "news-4980e212d8f2fd4177de",
+    "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+    "summary": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+    "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+    "category": "World",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T12:21:49.000Z"
+  },
+  {
+    "slug": "news-f6d101d9cd8d13b752e3",
+    "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
+    "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
+    "link": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+    "category": "World",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T12:20:17.000Z"
+  },
+  {
+    "slug": "news-88ab6f2dc35843e69a52",
+    "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+    "summary": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
+    "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+    "category": "Business",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T12:12:11.000Z"
+  },
+  {
+    "slug": "news-8caa087b45e566d3d45e",
+    "title": "Hundreds complain about I'm A Celebrity after Mariella Frostrup called AJ Odudu 'aggressive'",
+    "summary": "More than 800 viewers complain to regulator Ofcom after a row between AJ Odudu and Mariella Frostrup.",
+    "link": "https://www.bbc.co.uk/news/articles/c6ly5v11q194o?at_medium=RSS&at_campaign=rss",
+    "category": "Culture",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T11:57:31.000Z"
+  },
+  {
+    "slug": "news-d6d6da3e4f605e82b05a",
+    "title": "Brindle stands down as Wales women's coach",
+    "summary": "Tom Brindle steps down as Wales women's rugby league coach after five years in charge.",
+    "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cm0evpdqzl32o?at_medium=RSS&at_campaign=rss",
+    "category": "Sports",
+    "source": "BBC Sport",
+    "publishedAt": "2026-11-25T11:50:53.000Z"
+  },
+  {
+    "slug": "news-4cafc16006a70aeffdda",
+    "title": "Ice hockey federation appeals against Russia ban ruling",
+    "summary": "The International Ice Hockey Federation (IIHF) will appeal to the Swiss Federal Tribunal against a Court of Arbitration for Sport (Cas) ruling to reinstate Russia in next year's World Championship.",
+    "link": "https://www.bbc.co.uk/sport/ice-hockey/articles/cmy49n7pyl0yo?at_medium=RSS&at_campaign=rss",
+    "category": "Sports",
+    "source": "BBC Sport",
+    "publishedAt": "2026-11-25T11:47:34.000Z"
+  },
+  {
+    "slug": "news-86e9e9979fdc6f745644",
+    "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
+    "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
+    "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+    "category": "World",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T11:45:16.000Z"
+  },
+  {
+    "slug": "news-1862609f6e75bce10ad4",
+    "title": "Lincoln sack head coach duo Cohen and Shaw after only six months",
+    "summary": "Lincoln sack head coaches Chris Cohen and Tom Shaw just six months after they took joint charge of the Championship side.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmglrzg3zx9no?at_medium=RSS&at_campaign=rss",
+    "category": "Sports",
+    "source": "BBC Sport",
+    "publishedAt": "2026-11-25T11:32:28.000Z"
+  },
+  {
+    "slug": "news-cc155a4cf255d68197c0",
+    "title": "Watford appoint Iordanescu as head coach",
+    "summary": "Watford appoint former Romania boss Edward Iordanescu as their new head coach after sacking Alessio Dionisi.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cv1j65j2lw3po?at_medium=RSS&at_campaign=rss",
+    "category": "Sports",
+    "source": "BBC Sport",
+    "publishedAt": "2026-11-25T11:15:34.000Z"
+  },
+  {
+    "slug": "news-762ce6d7fedd6d19f353",
+    "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+    "summary": "The verdict follows a months-long trial in New York.",
+    "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+    "category": "Business",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T10:52:09.000Z"
+  },
+  {
+    "slug": "news-ea4a6f618532f78942b9",
+    "title": "Energy bills will soar - here's how you can ease the pain",
+    "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+    "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+    "category": "Business",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T10:42:20.000Z"
+  },
+  {
+    "slug": "news-16c8e7c60c6afb3a9451",
+    "title": "Why has China sent the first Pakistani astronaut to space?",
+    "summary": "Pakistan's Muhammad Zeeshan Ali has become the first foreign national to board China's Tiangong space station.",
+    "link": "https://www.bbc.co.uk/news/videos/cj5y1p067kxno?at_medium=RSS&at_campaign=rss",
+    "category": "Science",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T10:26:50.000Z"
+  },
+  {
+    "slug": "news-b50e46d04304c43411e6",
+    "title": "EA adds AI-generated John Motson to FC 27 video game",
+    "summary": "The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife.",
+    "link": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
+    "category": "Sports",
+    "source": "BBC Sport",
+    "publishedAt": "2026-11-25T10:11:34.000Z"
+  },
+  {
+    "slug": "news-58957c3acc4b07d3232e",
+    "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
+    "summary": "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire.",
+    "link": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
+    "category": "Business",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T10:03:12.000Z"
+  },
+  {
+    "slug": "news-db1a266f0612e471afed",
+    "title": "Northants begin T20 Blast defence at Hampshire",
+    "summary": "Northamptonshire Steelbacks will begin their T20 Blast defence at Hampshire, in a repeat of last season's final.",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/c9e853vm3613o?at_medium=RSS&at_campaign=rss",
+    "category": "Sports",
+    "source": "BBC Sport",
+    "publishedAt": "2026-11-25T10:00:50.000Z"
+  },
+  {
+    "slug": "news-b1db65a692ce60efc8bb",
+    "title": "What will the energy cap changes mean for my bills?",
+    "summary": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
+    "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+    "category": "Business",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T09:54:32.000Z"
+  },
+  {
+    "slug": "news-6cc399b5dad5d1278a78",
+    "title": "Why China has sent Pakistan's first astronaut into space",
+    "summary": "China launched its Shenzhou-24 space mission on Wednesday carrying three astronauts to its Tiangong space station, including Pakistan's Muhammad Zeeshan Ali, the first foreigner to join a Chinese crewed space mission.",
+    "link": "https://www.bbc.co.uk/news/videos/c3702x9ejk5ro?at_medium=RSS&at_campaign=rss",
+    "category": "Science",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T09:37:29.000Z"
+  },
+  {
+    "slug": "news-05370ffa2a87e5226e3a",
+    "title": "Khawaja 'disappointed' by Cummins' personal attack",
+    "summary": "Former Australia batter Usman Khawaja says it was \"never about me versus Pat\" as the 2018 sandpapergate scandal rumbles on.",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/c6grexq2jpero?at_medium=RSS&at_campaign=rss",
+    "category": "Sports",
+    "source": "BBC Sport",
+    "publishedAt": "2026-11-25T08:37:44.000Z"
+  },
+  {
+    "slug": "news-49b0f87e9a7fedb5cf9e",
+    "title": "Rinderknech denies refusing doping test",
+    "summary": "French tennis player Arthur Rinderknech says he expects to be exonerated over allegations he refused a doping test.",
+    "link": "https://www.bbc.co.uk/sport/tennis/articles/cr9d7gxjq99po?at_medium=RSS&at_campaign=rss",
+    "category": "Sports",
+    "source": "BBC Sport",
+    "publishedAt": "2026-11-25T08:10:52.000Z"
+  },
+  {
+    "slug": "news-4ea2ad45755124812ce2",
+    "title": "How Fin Smith's carrying is giving England an extra dimension",
+    "summary": "Fin Smith is only 5ft 10in tall and less than 14 stone, but the fly-half has become one of England's most prolific ball carriers.",
+    "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckr5gvr5yz24o?at_medium=RSS&at_campaign=rss",
+    "category": "Sports",
+    "source": "BBC Sport",
+    "publishedAt": "2026-11-25T07:51:31.000Z"
+  },
+  {
+    "slug": "news-2d4be277456770f9a64a",
+    "title": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
+    "summary": "The son of Zimbabwe's late former President Robert Mugabe has faced multiple legal troubles in the recent past.",
+    "link": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss",
+    "category": "World",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T07:26:54.000Z"
+  },
+  {
+    "slug": "news-1f2b44648126a7bf6559",
+    "title": "How to unearth young stars, the Bayern Munich way",
+    "summary": "Bayern Munich initially aim to find local young players from Bavaria before looking further afield - here's how they do it.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6702wddqz17o?at_medium=RSS&at_campaign=rss",
+    "category": "Sports",
+    "source": "BBC Sport",
+    "publishedAt": "2026-11-25T07:22:27.000Z"
+  },
+  {
+    "slug": "news-7c4fda0ba359ce093b04",
+    "title": "Players in limbo after NZ netball league collapses",
+    "summary": "Parris Mason on concerns about her netball future after the collapse of the domestic league in New Zealand.",
+    "link": "https://www.bbc.co.uk/sport/netball/articles/cq0k6gjgrzn4o?at_medium=RSS&at_campaign=rss",
+    "category": "Sports",
+    "source": "BBC Sport",
+    "publishedAt": "2026-11-25T07:17:16.000Z"
+  },
+  {
+    "slug": "news-6728eb208267b68f7b07",
+    "title": "Two children among six dead after plane crash off Mississippi coast",
+    "summary": "Divers found the bodies of four adults and two boys, aged 8 and 10, in the fuselage, the US Coast Guard said.",
+    "link": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
+    "category": "World",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T07:08:22.000Z"
+  },
+  {
+    "slug": "news-49329031b8104f2ff3af",
+    "title": "Blade Runner 2099 not just about AI, say star Hunter Schafer and series creator",
+    "summary": "Hunter Schafer and co-stars say the sci-fi TV show explores more than the idea of robotic consciousness.",
+    "link": "https://www.bbc.co.uk/news/articles/cqpv9kjgy4jno?at_medium=RSS&at_campaign=rss",
+    "category": "Culture",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T06:28:22.000Z"
+  },
+  {
+    "slug": "news-daae2cd906a67e67ba83",
+    "title": "Are Man Utd this season's Tottenham?",
+    "summary": "Tottenham escaped an unthinkable Premier League relegation last season on the final day, but are Manchester United in danger of being the new Spurs?",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cj4gndepk312o?at_medium=RSS&at_campaign=rss",
+    "category": "Sports",
+    "source": "BBC Sport",
+    "publishedAt": "2026-11-25T06:22:36.000Z"
+  },
+  {
+    "slug": "news-d9147fc308b7648ca826",
+    "title": "Huge fly-tip grew undetected over several months",
+    "summary": "The council says the 20-tonne pile of rubbish was dumped over garden fences.",
+    "link": "https://www.bbc.co.uk/news/articles/cqzjr4m9ljzxo?at_medium=RSS&at_campaign=rss",
+    "category": "Science",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T06:14:26.000Z"
+  },
+  {
+    "slug": "news-6cd45e2d2b78eb32e04a",
+    "title": "Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth",
+    "summary": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
+    "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+    "category": "Science",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T06:00:36.000Z"
+  },
+  {
+    "slug": "news-b41c5c05b357ac652019",
+    "title": "Fatbergs, feathers and flocks of sheep - inside the new London Museum",
+    "summary": "The venue's new site at Smithfield Market opens on Saturday following a £437m restoration project.",
+    "link": "https://www.bbc.co.uk/news/articles/cky9708qj7wdo?at_medium=RSS&at_campaign=rss",
+    "category": "Culture",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T05:50:53.000Z"
+  },
+  {
+    "slug": "news-af29473d6bca7877b125",
+    "title": "China's Shenzhou-24 carries Pakistan's first astronaut into space",
+    "summary": "Muhammad Zeeshan Ali, a former fighter pilot, is the first foreigner to join a Chinese crewed space mission.",
+    "link": "https://www.bbc.co.uk/news/articles/c6x2e0j3kx28o?at_medium=RSS&at_campaign=rss",
+    "category": "Science",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T04:46:23.000Z"
+  },
+  {
+    "slug": "news-2a1422ea57bb08bb754c",
+    "title": "US attorney general dodges questions about Nvidia investigation",
+    "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+    "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+    "category": "Business",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T03:44:07.000Z"
+  },
+  {
+    "slug": "news-291d938a9bf3eed5db19",
+    "title": "Moment Chinese space mission lifts off with first Pakistan astronaut aboard",
+    "summary": "China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.",
+    "link": "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss",
+    "category": "World",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T03:28:37.000Z"
+  },
+  {
+    "slug": "news-8f4161a071dc6248d529",
+    "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
+    "summary": "Solomon Islands leader Matthew Wale said his country would no longer be a point of regional uncertainty.",
+    "link": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss",
+    "category": "World",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T03:15:12.000Z"
+  },
+  {
+    "slug": "news-931118a83c11690ed261",
+    "title": "Thomas Markle charged in US for possessing child sex abuse images",
+    "summary": "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
+    "link": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
+    "category": "World",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T01:40:42.000Z"
+  },
+  {
+    "slug": "news-6791e8a4e26fa51958e1",
+    "title": "Will there be a white Christmas this year?",
+    "summary": "It is just a month until the big day but what do the early signs say about the chances of a white Christmas in the UK?",
+    "link": "https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo?at_medium=RSS&at_campaign=rss",
+    "category": "Science",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T01:03:24.000Z"
+  },
+  {
+    "slug": "news-912dcc7ffb345aa14cdf",
+    "title": "Trump's rescue of Nvidia's Huang brings political risks",
+    "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+    "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+    "category": "Business",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T01:03:05.000Z"
+  },
+  {
+    "slug": "news-04d7a75d17591af0239d",
+    "title": "The rising cost of putting food on the table in India",
+    "summary": "India's food inflation is broadening, squeezing household budgets.",
+    "link": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+    "category": "Science",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T01:02:13.000Z"
+  },
+  {
+    "slug": "news-209b69b840618609dca2",
+    "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+    "summary": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
+    "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
+    "category": "World",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T00:54:13.000Z"
+  },
+  {
+    "slug": "news-3267b6051ed13edd2e7a",
+    "title": "Why tiny cars are taking off across Europe",
+    "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+    "link": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+    "category": "Business",
+    "source": "BBC News",
+    "publishedAt": "2026-11-25T00:34:05.000Z"
   },
   {
     "slug": "news-cafbef9c281ce9ecd329",
@@ -36,13 +459,31 @@
     "publishedAt": "2026-11-24T23:17:42.000Z"
   },
   {
-    "slug": "news-762ce6d7fedd6d19f353",
-    "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-    "summary": "The verdict follows a months-long trial in New York.",
-    "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-    "category": "Business",
+    "slug": "news-803932ad076bb2b61b1c",
+    "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
+    "summary": "The network attacked key figures in the ruling DPP, including President Lai and mayoral candidate Shen.",
+    "link": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
+    "category": "World",
     "source": "BBC News",
-    "publishedAt": "2026-11-24T22:24:23.000Z"
+    "publishedAt": "2026-11-24T23:05:11.000Z"
+  },
+  {
+    "slug": "news-728942263f493f659fb2",
+    "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
+    "summary": "A new report has testimonies from hundreds of defectors who say they were persecuted because of their faith.",
+    "link": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
+    "category": "World",
+    "source": "BBC News",
+    "publishedAt": "2026-11-24T23:03:59.000Z"
+  },
+  {
+    "slug": "news-e7995c112ae8e4c674e1",
+    "title": "Watch: Flock of turkeys chases woman on Massachusetts pavement",
+    "summary": "The woman said she had to jump into a stranger's car to escape a flock of turkeys that chased her down the sidewalk.",
+    "link": "https://www.bbc.co.uk/news/videos/cknv4mq93gd2o?at_medium=RSS&at_campaign=rss",
+    "category": "World",
+    "source": "BBC News",
+    "publishedAt": "2026-11-24T22:07:30.000Z"
   },
   {
     "slug": "news-6c8f1d9ade5e9ba5f06d",
@@ -70,15 +511,6 @@
     "category": "Culture",
     "source": "BBC News",
     "publishedAt": "2026-11-24T21:40:58.000Z"
-  },
-  {
-    "slug": "news-2a1422ea57bb08bb754c",
-    "title": "US attorney general dodges questions about Nvidia investigation",
-    "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-    "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-    "category": "Business",
-    "source": "BBC News",
-    "publishedAt": "2026-11-24T21:19:42.000Z"
   },
   {
     "slug": "news-3d8f05f75b9061b94d04",
@@ -133,6 +565,15 @@
     "category": "World",
     "source": "BBC News",
     "publishedAt": "2026-11-24T19:10:31.000Z"
+  },
+  {
+    "slug": "news-135331cbf39b4a517c91",
+    "title": "Archers fans urged to back fight to keep show in city",
+    "summary": "Cast members will be protesting with actors union Equity to ask fans to back their campaign",
+    "link": "https://www.bbc.co.uk/news/articles/ckr5gv4g0pmdo?at_medium=RSS&at_campaign=rss",
+    "category": "Culture",
+    "source": "BBC News",
+    "publishedAt": "2026-11-24T19:09:13.000Z"
   },
   {
     "slug": "news-a4e986911abd23a3edb8",
@@ -208,7 +649,7 @@
   },
   {
     "slug": "news-04ae87c4a928cd9fc725",
-    "title": "Badger cull ruled out by Welsh government after speculation",
+    "title": "Mass badger cull ruled out by Welsh government after speculation",
     "summary": "Plaid Cymru ministers rule out mass badger cull as part of new plans to tackle bovine tuberculosis.",
     "link": "https://www.bbc.co.uk/news/articles/cm930yjy97xyo?at_medium=RSS&at_campaign=rss",
     "category": "Science",
@@ -280,7 +721,7 @@
   },
   {
     "slug": "news-6a3c5fc335f92bc72a03",
-    "title": "Sooryavanshi, 15, breaks sixes record by scoring 204 off 53 balls",
+    "title": "Sooryavanshi, 15, breaks sixes record in 204 off 53 balls",
     "summary": "India's 15-year-old sensation Vaibhav Sooryavanshi blazes 204 from 53 balls for India A, almost halving the record for the fastest double-century in List A cricket.",
     "link": "https://www.bbc.co.uk/sport/cricket/articles/c6y9709xx4qwo?at_medium=RSS&at_campaign=rss",
     "category": "Sports",
@@ -298,7 +739,7 @@
   },
   {
     "slug": "news-45945fc7057b7e1d1252",
-    "title": "Commanders claim late win to come back against Bengals",
+    "title": "Commanders fight back to claim late win against Bengals",
     "summary": "Drew Stevens kicks a last-second field goal to see Washington Commanders come back against the Cincinnati Bengals in a close match.",
     "link": "https://www.bbc.co.uk/sport/american-football/videos/cjn50y5wdy40o?at_medium=RSS&at_campaign=rss",
     "category": "Sports",
@@ -715,7 +1156,7 @@
     "title": "The rise and fall and rise again of Jensen Huang",
     "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
     "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-    "category": "Business",
+    "category": "Technology",
     "source": "BBC News",
     "publishedAt": "2026-11-23T15:49:52.000Z"
   },
@@ -810,15 +1251,6 @@
     "publishedAt": "2026-11-23T05:15:06.000Z"
   },
   {
-    "slug": "news-ea4a6f618532f78942b9",
-    "title": "Energy bills will soar - here's how you can ease the pain",
-    "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
-    "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-    "category": "Business",
-    "source": "BBC News",
-    "publishedAt": "2026-11-23T01:05:07.000Z"
-  },
-  {
     "slug": "news-f52c822b3d4b23835901",
     "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
     "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
@@ -832,7 +1264,7 @@
     "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
     "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
     "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
-    "category": "Technology",
+    "category": "Business",
     "source": "BBC News",
     "publishedAt": "2026-11-23T00:08:00.000Z"
   },
@@ -1035,6 +1467,15 @@
     "publishedAt": "2026-11-20T10:24:52.000Z"
   },
   {
+    "slug": "news-b6973fc351e5f01d4816",
+    "title": "Should AI be judging our credit worthiness?",
+    "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
+    "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+    "category": "Business",
+    "source": "BBC News",
+    "publishedAt": "2026-11-20T07:32:19.000Z"
+  },
+  {
     "slug": "news-12678105734e5723caf5",
     "title": "New Hunger Games cast say joining the franchise is 'nerve-racking' ",
     "summary": "The prequel, which is set 24 years before the original The Hunger Games film, is released today.",
@@ -1060,6 +1501,15 @@
     "category": "Science",
     "source": "BBC News",
     "publishedAt": "2026-11-19T02:59:06.000Z"
+  },
+  {
+    "slug": "news-010b3a1c8069f2a8cbf1",
+    "title": "Europe plans to catch the next computer chip wave",
+    "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+    "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+    "category": "Business",
+    "source": "BBC News",
+    "publishedAt": "2026-11-18T00:00:24.000Z"
   },
   {
     "slug": "news-1b098827987d9fe3af0a",
@@ -1107,6 +1557,24 @@
     "publishedAt": "2026-11-14T01:00:00.000Z"
   },
   {
+    "slug": "news-64838ee6839b9ce31acf",
+    "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+    "summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+    "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+    "category": "Business",
+    "source": "BBC News",
+    "publishedAt": "2026-11-13T12:22:30.000Z"
+  },
+  {
+    "slug": "news-b2f23fe60f3a3e036ba4",
+    "title": "Robot vessels take on the dangerous work of mine hunting",
+    "summary": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+    "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+    "category": "Business",
+    "source": "BBC News",
+    "publishedAt": "2026-11-11T00:19:13.000Z"
+  },
+  {
     "slug": "news-9798c5d5f4ba159b29c6",
     "title": "Tech Life",
     "summary": "We investigate internet-connected device flaws worldwide, plus US election tech fallout.",
@@ -1114,6 +1582,15 @@
     "category": "Technology",
     "source": "BBC News",
     "publishedAt": "2026-11-10T20:30:00.000Z"
+  },
+  {
+    "slug": "news-3880731809dbbf5e7ad5",
+    "title": "The engine parts that 'fight the laws of the universe'",
+    "summary": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
+    "link": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+    "category": "Business",
+    "source": "BBC News",
+    "publishedAt": "2026-11-06T00:06:06.000Z"
   },
   {
     "slug": "news-974b9860edd3eb70b66f",
