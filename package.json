@@ -1,0 +1,29 @@
+{
+  "name": "trendpulse",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.mjs",
+    "refresh": "node scripts/refresh.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyron40/trendpulse.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tyron40/trendpulse/issues"
+  },
+  "homepage": "https://github.com/tyron40/trendpulse#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "express-rate-limit": "^8.7.5",
+    "helmet": "^8.3.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "rss-parser": "^3.13.0"
+  },
+  "private": true,
+  "engines": {
+    "node": "24.x"
+  }
+}
